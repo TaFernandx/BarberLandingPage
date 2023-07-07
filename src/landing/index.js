@@ -37,7 +37,7 @@ export default function LandingPg () {
                 </p>
 
                 <p className='secondp'> S. Kelly</p>
-                <a href='https://github.com/TaFernandx/BarberLandingPage'>See the Code</a>
+                <a href='https://github.com/TaFernandx/BarberLandingPage' target="_blank">See the Code</a>
                 </div>
 
                 
